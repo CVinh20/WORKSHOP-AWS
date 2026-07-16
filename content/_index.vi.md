@@ -7,17 +7,17 @@ chapter: false
 
 # Báo cáo thực tập
 ### Thông tin sinh viên:
-&emsp; **Họ và tên:** Đào Hữu Tiến
+&emsp; **Họ và tên:** Lê Huỳnh Công Vinh
 
-&emsp; **Số điện thoại:** 0911384693
+&emsp; **Số điện thoại:** 0967353909
 
-&emsp; **Email:** daohuutien2004@gmail.com
+&emsp; **Email:** lehuynhcongvinhc1.c3hn2019@gmail.com
 
 &emsp; **Trường:** Trường Đại Học Công Nghệ TP.HCM
 
 &emsp; **Ngành:** Công nghệ thông tin
 
-&emsp; **Lớp:** 22DTHE7
+&emsp; **Lớp:** 22DTHE2
 
 &emsp; **Công ty thực tập:** Công ty TNHH Amazon Web Services Vietnam
 
@@ -25,7 +25,7 @@ chapter: false
 
 &emsp; **Thời gian thực tập:** Từ ngày 17/04/2026 đến ngày 10/07/2026
 
-![Ảnh đại diện của bạn](/images/avatar.png)
+![Ảnh đại diện của bạn](/images/avatar.jpg)
 
 
 

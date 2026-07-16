@@ -65,3 +65,10 @@ PostgreSQL + Prisma
   |
   v
 Return documents + status + analysis summary
+```
+
+---
+
+#### Giao diện thực tế
+
+![Giao diện Dashboard quản lý tài liệu](/images/5-Workshop/5.9-Frontend-Dashboard/5.9.2-document-dashboard/5.9.1(2).png)

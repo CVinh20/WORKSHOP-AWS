@@ -51,3 +51,10 @@ Example queries:
 * What is the invoice date?
 * Summarize this document in 5 lines.
 * What is the most critical information in this document?
+```
+
+---
+
+#### Actual Interface
+
+![AI Chat and RAG Interface](/images/5-Workshop/5.9-Frontend-Dashboard/5.9.3-ai-chat-rag/5.9.3.png)

@@ -77,3 +77,10 @@ Frontend Auth State
   |
   v
 Dashboard / Upload / Admin
+```
+
+---
+
+#### Giao diện thực tế
+
+![Giao diện Đăng nhập và Xác thực](/images/5-Workshop/5.9-Frontend-Dashboard/5.9.1-home-and-auth/5.9.1.png)

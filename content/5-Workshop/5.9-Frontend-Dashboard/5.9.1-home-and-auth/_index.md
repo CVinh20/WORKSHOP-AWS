@@ -78,3 +78,9 @@ Frontend Auth State
   v
 Dashboard / Upload / Admin
 ```
+
+---
+
+#### Actual Interface
+
+![Login and Authentication Interface](/images/5-Workshop/5.9-Frontend-Dashboard/5.9.1-home-and-auth/5.9.1.png)

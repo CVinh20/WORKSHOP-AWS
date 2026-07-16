@@ -53,3 +53,10 @@ Ai là nhà cung cấp?
 Ngày phát hành tài liệu là ngày nào?
 Tóm tắt tài liệu trong 5 dòng.
 Các thông tin quan trọng nhất là gì?
+```
+
+---
+
+#### Giao diện thực tế
+
+![Giao diện hỏi đáp tài liệu AI Chat và RAG](/images/5-Workshop/5.9-Frontend-Dashboard/5.9.3-ai-chat-rag/5.9.3.png)

@@ -13,17 +13,17 @@ chapter: false
 {{% /notice %}}
 
 ### Student Information:
-&emsp; **Full Name:** Dao Huu Tien
+&emsp; **Full Name:** Le Huynh Cong Vinh    
 
-&emsp; **Phone Number:** 0911384693
+&emsp; **Phone Number:** 0967353909
 
-&emsp; **Email:** daohuutien2004@gmail.com
+&emsp; **Email:** lehuynhcongvinhc1.c3hn2019@gmail.com
 
 &emsp; **University:** Ho Chi Minh City University of Technology
 
 &emsp; **Major:** Information Technology
 
-&emsp; **Class:** 22DTHE7
+&emsp; **Class:** 22DTHE2
 
 &emsp; **Internship Company:** Amazon Web Services Vietnam Co., Ltd.
 
@@ -31,7 +31,7 @@ chapter: false
 
 &emsp; **Internship Duration:** From 17/04/2026 to 10/07/2026
 
-![Your profile picture](/images/avatar.png)
+![Your profile picture](/images/avatar.jpg)
 
 ### Report Content
 
