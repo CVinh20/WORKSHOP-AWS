@@ -3,7 +3,7 @@ title : "Run Prisma Migrations"
 date : 2026-06-10
 weight : 3
 chapter : false
-pre : " <b> 5.7. </b> "
+pre : " <b> 5.7.3. </b> "
 ---
 
 #### Overview
