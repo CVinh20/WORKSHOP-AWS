@@ -59,12 +59,9 @@ PostgreSQL + Prisma
 S3 / SQS / Textract / Gemini / OpenAI
 ```
 
-![frontend-dashboard-flow](/images/5-Workshop/5.9-Frontend-Dashboard/frontend-dashboard-flow.png)
 
 > ⚠️ **Gợi ý chụp hình (Screenshot Suggestion):**
 > Vẽ sơ đồ minh họa React Frontend kết nối với Backend API, sau đó backend làm việc với PostgreSQL, Amazon S3, Amazon SQS, Amazon Textract, Gemini API và OpenAI ChatGPT API.
-> Lưu ảnh tại đường dẫn:
-> `/images/5-Workshop/5.9-Frontend-Dashboard/frontend-dashboard-flow.png`
 
 ---
 
@@ -427,3 +424,7 @@ Sau khi hoàn thành phần này, hệ thống cần đạt được:
 #### Kết quả kỳ vọng
 
 Sau phần này, DocuMind AI đã có giao diện frontend hoàn chỉnh để người dùng sử dụng toàn bộ pipeline xử lý tài liệu. Người dùng có thể đăng nhập, upload tài liệu, theo dõi trạng thái xử lý, xem kết quả OCR/AI, chat với tài liệu và thử nghiệm các chức năng nâng cao trong Enterprise Sandbox.
+
+Link demo: https://drive.google.com/drive/folders/1ylPKal9ehctRvPLfBSnfYf9OplkGb4SD
+github: https://github.com/WangTuann2608/DAFCJ_DocumindAI.git
+

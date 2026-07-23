@@ -58,12 +58,8 @@ PostgreSQL + Prisma
 S3 / SQS / Textract / Gemini / OpenAI
 ```
 
-![frontend-dashboard-flow](/images/5-Workshop/5.9-Frontend-Dashboard/frontend-dashboard-flow.png)
-
 > ⚠️ **Screenshot Suggestion:**
 > Draw a diagram illustrating the React Frontend connecting to the Backend API, which then interacts with PostgreSQL, Amazon S3, Amazon SQS, Amazon Textract, the Gemini API, and the OpenAI ChatGPT API.
-> Save the image at the path:
-> `/images/5-Workshop/5.9-Frontend-Dashboard/frontend-dashboard-flow.png`
 
 ---
 
@@ -426,3 +422,6 @@ Upon completing this section, the frontend should achieve:
 #### Expected Outcome
 
 Following this section, DocuMind AI has a complete frontend dashboard. Users can register, upload files, monitor processing stages, view OCR and AI results, chat with their documents, and explore sandbox features.
+
+Link demo: https://drive.google.com/drive/folders/1ylPKal9ehctRvPLfBSnfYf9OplkGb4SD
+github: https://github.com/WangTuann2608/DAFCJ_DocumindAI.git
