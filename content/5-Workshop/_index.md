@@ -34,3 +34,6 @@ In this workshop, you will learn how to design, deploy, and operate a complete a
 12. [Monitoring and Security](5.12-Monitoring-and-Security/)
 13. [Deployment and Test](5.13-Deployment-and-Test/)
 14. [Cleanup](5.14-Cleanup/)
+
+Link demo: https://drive.google.com/drive/folders/1ylPKal9ehctRvPLfBSnfYf9OplkGb4SD
+github: https://github.com/WangTuann2608/DAFCJ_DocumindAI.git

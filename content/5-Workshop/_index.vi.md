@@ -35,3 +35,6 @@ Trong workshop này, chúng ta sẽ học cách thiết kế, triển khai và v
 12. [Monitoring & Security](5.12-Monitoring-and-Security/)
 13. [Deployment & Test](5.13-Deployment-and-Test/)
 14. [Dọn dẹp tài nguyên](5.14-Cleanup/)
+
+Link demo: https://drive.google.com/drive/folders/1ylPKal9ehctRvPLfBSnfYf9OplkGb4SD
+github: https://github.com/WangTuann2608/DAFCJ_DocumindAI.git
